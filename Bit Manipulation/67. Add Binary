@@ -12,36 +12,3 @@ Example 2:
 Input: a = "1010", b = "1011"  
 Output: "10101"  
 
-**Python**  
-```ruby
-class Solution:
-    def addBinary(self, a: str, b: str) -> str:
-        i = len(a)-1
-        j = len(b)-1
-        carry = 0
-        s = list()
-        while(i>=0 and j>=0):
-
-            carry+=int(a[i])
-            i-=1
-            carry+=int(b[j])
-            j-=1
-            s.append(str(carry%2))
-            carry =int(carry/2)
-
-        if(len(a)>len(b)):
-            while(i>=0):
-                carry+=int(a[i])
-                i-=1
-                s.append(str(carry%2))
-                carry = int(carry/2)
-        else:
-            while(j>=0):
-                carry+=int(b[j])
-                j-=1
-                s.append(str(carry%2))
-                carry = int(carry/2)
-        if(carry!=0):
-            s.append(str(carry))
-  
-        return ''.join(reversed(s))
