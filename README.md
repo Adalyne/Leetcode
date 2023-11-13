@@ -4,6 +4,3 @@
 
 **Binary Tree of DFS**  
 [543. Diameter of Binary Tree](https://github.com/Adalyne/Leetcode/blob/ba3522d90550172dfdcd7535eaeb2231c7e247e5/Binary%20Tree%20DFS/543.%20Diameter%20of%20Binary%20Tree.md)  
-
-**othoers**  
-[876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/96c425f216bf7ddaac0421d4f63fd6a48ce58cdf/Others/876.%20Middle%20of%20the%20Linked%20.md)  
