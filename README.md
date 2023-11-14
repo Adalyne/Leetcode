@@ -1,6 +1,6 @@
 # Leetcode
  **Bit Manipulation**  
-[67. Add Binary](https://github.com/Adalyne/Leetcode/blob/5d68662269b5006d15c4ed4ea939de7ca3d5e97f/Bit%20Manipulation/67.%20Add%20Binary.md)    
+`Easy`[67. Add Binary](https://github.com/Adalyne/Leetcode/blob/5d68662269b5006d15c4ed4ea939de7ca3d5e97f/Bit%20Manipulation/67.%20Add%20Binary.md)    
 
 **Binary Tree General**  
 [104. Maximun Depth of Binary Tree](https://github.com/Adalyne/Leetcode/blob/f6d1eccb8762a1e0310aa489a05d530f292baba1/Binary%20Tree%20General/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
