@@ -7,6 +7,7 @@
 
 **Hashmap**  
 [1. Two Sum](https://github.com/Adalyne/Leetcode/blob/91d46fd6e67ea0876d96f69d17cf5c71020ed012/Hashmap/1.%20Two%20Sum.md)  
+[13. Roman to Integer](https://github.com/Adalyne/Leetcode/blob/f508e148150a891a8853a23700726bea6cf0d32e/Hashmap/13.%20Roman%20to%20Integer.md)  
 [217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
 
 **Binary Tree of DFS**  
