@@ -1,0 +1,41 @@
+# 1. Two Sum
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+ 
+# Example
+**Example 1**
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+**Example 2**
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
+
+**Example 3**
+Input: nums = [3,3], target = 6
+Output: [0,1]
+
+# 想法
+一開始我是用暴力法  
+但寫到後面發現可以用Hashmap解，以下解釋 
+用hashmap建表，將target-目前list迭代的值  
+若在table裡則直接return {目前list迭代值的index, (target-目前list迭代的值)的index}, 否則將目前迭代list的值中加入table中  
+
+# Code
+**Python**
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        table = dict()
+
+        for i in range(len(nums)):
+            res = target - nums[i]
+            if res in table:
+                return [table[res], i]
+            table[nums[i]] = i
+        
+        return list()
