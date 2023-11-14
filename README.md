@@ -5,6 +5,9 @@
 **Binary Tree General**  
 [104. Maximun Depth of Binary Tree](https://github.com/Adalyne/Leetcode/blob/f6d1eccb8762a1e0310aa489a05d530f292baba1/Binary%20Tree%20General/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
 
+**Hashmap**  
+[217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
+
 **Binary Tree of DFS**  
 [543. Diameter of Binary Tree](https://github.com/Adalyne/Leetcode/blob/ba3522d90550172dfdcd7535eaeb2231c7e247e5/Binary%20Tree%20DFS/543.%20Diameter%20of%20Binary%20Tree.md)  
 
