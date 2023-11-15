@@ -13,5 +13,8 @@
 **Binary Tree of DFS**  
 `Easy` [543. Diameter of Binary Tree](https://github.com/Adalyne/Leetcode/blob/ba3522d90550172dfdcd7535eaeb2231c7e247e5/Binary%20Tree%20DFS/543.%20Diameter%20of%20Binary%20Tree.md)  
 
+**Stack**  
+`Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
+
 **Others**  
 `Easy` [876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/1d7ff6c0b5aa099c0430e34088aa70b1f5717bb4/Others/876.%20Middle%20of%20the%20Linked.md)  
