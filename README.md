@@ -1,6 +1,7 @@
 # Leetcode
  **Bit Manipulation**  
 `Easy` [67. Add Binary](https://github.com/Adalyne/Leetcode/blob/5d68662269b5006d15c4ed4ea939de7ca3d5e97f/Bit%20Manipulation/67.%20Add%20Binary.md)    
+`Easy`[191. Number of 1 Bits](https://github.com/Adalyne/Leetcode/blob/97b4f2ffaabf541a9c7afbb21a3da51020ae28f0/Bit%20Manipulation/191.%20Number%20of%201%20Bits.md)  
 `Easy` [338. Counting Bits](https://github.com/Adalyne/Leetcode/blob/45339c69cf3fa2972bba813107df9e809f8cacf5/Bit%20Manipulation/338.%20Counting%20Bits.md)  
 
 **Binary Tree General**  
