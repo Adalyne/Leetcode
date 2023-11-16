@@ -4,6 +4,7 @@
 `Easy` [338. Counting Bits](https://github.com/Adalyne/Leetcode/blob/45339c69cf3fa2972bba813107df9e809f8cacf5/Bit%20Manipulation/338.%20Counting%20Bits.md)  
 
 **Binary Tree General**  
+`Easy` [100. Same Tree](https://github.com/Adalyne/Leetcode/blob/2ff8a74043edbe72fed3d906cf81218e983918d5/Binary%20Tree%20General/100.%20Same%20Tree.md)  
 `Easy` [104. Maximun Depth of Binary Tree](https://github.com/Adalyne/Leetcode/blob/f6d1eccb8762a1e0310aa489a05d530f292baba1/Binary%20Tree%20General/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
 
 **Hashmap**  
