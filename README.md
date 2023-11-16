@@ -1,7 +1,7 @@
 # Leetcode
  **Bit Manipulation**  
 `Easy` [67. Add Binary](https://github.com/Adalyne/Leetcode/blob/5d68662269b5006d15c4ed4ea939de7ca3d5e97f/Bit%20Manipulation/67.%20Add%20Binary.md)    
-`Easy`[191. Number of 1 Bits](https://github.com/Adalyne/Leetcode/blob/97b4f2ffaabf541a9c7afbb21a3da51020ae28f0/Bit%20Manipulation/191.%20Number%20of%201%20Bits.md)  
+`Easy` [191. Number of 1 Bits](https://github.com/Adalyne/Leetcode/blob/97b4f2ffaabf541a9c7afbb21a3da51020ae28f0/Bit%20Manipulation/191.%20Number%20of%201%20Bits.md)  
 `Easy` [338. Counting Bits](https://github.com/Adalyne/Leetcode/blob/45339c69cf3fa2972bba813107df9e809f8cacf5/Bit%20Manipulation/338.%20Counting%20Bits.md)  
 
 **Binary Tree General**  
@@ -20,7 +20,7 @@
 `Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
 
 **Math**  
-`Easy`[9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
+`Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
 
 **Others**  
 `Easy` [876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/1d7ff6c0b5aa099c0430e34088aa70b1f5717bb4/Others/876.%20Middle%20of%20the%20Linked.md)  
