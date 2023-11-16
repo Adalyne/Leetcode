@@ -21,6 +21,7 @@
 
 **Math**  
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
+`Easy` [66. Plus One](https://github.com/Adalyne/Leetcode/blob/c1e07739a4700b14dcdd6b57802de1d758947294/Math/66.%20Plus%20One.md)  
 
 **Others**  
 `Easy` [876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/1d7ff6c0b5aa099c0430e34088aa70b1f5717bb4/Others/876.%20Middle%20of%20the%20Linked.md)  
