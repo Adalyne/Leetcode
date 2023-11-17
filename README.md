@@ -11,6 +11,7 @@
 **Binary Tree General**  
 `Easy` [100. Same Tree](https://github.com/Adalyne/Leetcode/blob/2ff8a74043edbe72fed3d906cf81218e983918d5/Binary%20Tree%20General/100.%20Same%20Tree.md)  
 `Easy` [104. Maximun Depth of Binary Tree](https://github.com/Adalyne/Leetcode/blob/f6d1eccb8762a1e0310aa489a05d530f292baba1/Binary%20Tree%20General/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
+`Easy` [110. Balenced Binary Tree](https://github.com/Adalyne/Leetcode/blob/8cf9a4a4af2ea7b654b8f51a0663060372974b24/Binary%20Tree%20General/110.%20Balanced%20Binary%20Tree.md)   
 
 **Hashmap**  
 `Easy` [1. Two Sum](https://github.com/Adalyne/Leetcode/blob/91d46fd6e67ea0876d96f69d17cf5c71020ed012/Hashmap/1.%20Two%20Sum.md)  
