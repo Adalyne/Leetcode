@@ -24,6 +24,9 @@
 **Stack**  
 `Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
 
+**Linked List**  
+`Easy` [234. Palindrome Linked List](https://github.com/Adalyne/Leetcode/blob/e851bad72655d7504178778254e92bb89c09848e/Linked%20List/234.%20Palindrome%20Linked%20List.md)  
+
 **Math**  
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
 `Easy` [66. Plus One](https://github.com/Adalyne/Leetcode/blob/c1e07739a4700b14dcdd6b57802de1d758947294/Math/66.%20Plus%20One.md)  
