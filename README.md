@@ -6,6 +6,7 @@
  **Bit Manipulation**  
 `Easy` [67. Add Binary](https://github.com/Adalyne/Leetcode/blob/5d68662269b5006d15c4ed4ea939de7ca3d5e97f/Bit%20Manipulation/67.%20Add%20Binary.md)    
 `Easy` [136. Single Number](https://github.com/Adalyne/Leetcode/blob/c80f4384411bfc1001e4176b4dcb306653855f4a/Bit%20Manipulation/136.%20Single%20Number.md)  
+`Easy` [190. Reverse Bits](https://github.com/Adalyne/Leetcode/blob/da958861963f2896c743f042ee3c934406df4e86/Bit%20Manipulation/190.%20Reverse%20Bits.md)  
 `Easy` [191. Number of 1 Bits](https://github.com/Adalyne/Leetcode/blob/97b4f2ffaabf541a9c7afbb21a3da51020ae28f0/Bit%20Manipulation/191.%20Number%20of%201%20Bits.md)  
 `Easy` [338. Counting Bits](https://github.com/Adalyne/Leetcode/blob/45339c69cf3fa2972bba813107df9e809f8cacf5/Bit%20Manipulation/338.%20Counting%20Bits.md)  
 
