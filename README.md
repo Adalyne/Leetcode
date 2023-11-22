@@ -33,6 +33,9 @@
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
 `Easy` [66. Plus One](https://github.com/Adalyne/Leetcode/blob/c1e07739a4700b14dcdd6b57802de1d758947294/Math/66.%20Plus%20One.md)  
 
+**Divide & Conquer**  
+`Easy` [108. Convert Sorted Array to Binary Serch Tree](https://github.com/Adalyne/Leetcode/blob/bdda9e18750572f0a26d041906144f6f0afe48b8/Divide%20%26%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
+
 **Others**  
 `Easy` [283. Move Zeroes](https://github.com/Adalyne/Leetcode/blob/6d154a729d59954013b5188dd2d32a759b2abab9/Others/283.%20Move%20Zeroes.md)  
 `Easy` [876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/1d7ff6c0b5aa099c0430e34088aa70b1f5717bb4/Others/876.%20Middle%20of%20the%20Linked.md)  
