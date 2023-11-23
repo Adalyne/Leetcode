@@ -39,6 +39,9 @@
 **Divide & Conquer**  
 `Easy` [108. Convert Sorted Array to Binary Serch Tree](https://github.com/Adalyne/Leetcode/blob/bdda9e18750572f0a26d041906144f6f0afe48b8/Divide%20%26%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
 
+**Kadane's Alogorithm**  
+`Medium` [53. Maximum Subarray](https://github.com/Adalyne/Leetcode/blob/0f638f8fd1a7f9648bf13a1a914da20ee37742f4/Kadane's%20Algorithm/53.%20Maximum%20Subarray.md)  
+
 **Others**  
 `Easy` [283. Move Zeroes](https://github.com/Adalyne/Leetcode/blob/6d154a729d59954013b5188dd2d32a759b2abab9/Others/283.%20Move%20Zeroes.md)  
 `Easy` [876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/1d7ff6c0b5aa099c0430e34088aa70b1f5717bb4/Others/876.%20Middle%20of%20the%20Linked.md)  
