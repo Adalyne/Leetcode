@@ -16,6 +16,7 @@
 `Easy` [101. Symmetric Tree](https://github.com/Adalyne/Leetcode/blob/21297642a46057daea47bc5e055bc0e139c675cd/Binary%20Tree%20General/101.%20Symmetric%20Tree.md)  
 `Easy` [104. Maximun Depth of Binary Tree](https://github.com/Adalyne/Leetcode/blob/f6d1eccb8762a1e0310aa489a05d530f292baba1/Binary%20Tree%20General/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
 `Easy` [110. Balenced Binary Tree](https://github.com/Adalyne/Leetcode/blob/8cf9a4a4af2ea7b654b8f51a0663060372974b24/Binary%20Tree%20General/110.%20Balanced%20Binary%20Tree.md)   
+`Medium` [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Adalyne/Leetcode/blob/b2db13557dee15c0fa7df3bf25e59267174b31e6/Binary%20Tree%20General/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)   
 `Easy` [572. Subtree of Another Tree](https://github.com/Adalyne/Leetcode/blob/40715c5fb2e491ef9960e4af55931a83bdc30952/Binary%20Tree%20General/572.%20Subtree%20of%20Another%20Tree.md)  
 
 **Hashmap**  
