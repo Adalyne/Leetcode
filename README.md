@@ -1,7 +1,8 @@
 # Leetcode
 **Array_String**  
 `Easy` [14. Longest Common Prefix](https://github.com/Adalyne/Leetcode/blob/ffcae61b244916146e1af3e08c940e12313fe987/Array_String/14.%20Longest%20Common%20Prefix.md)  
-`Easy` [268. Missing Number](https://github.com/Adalyne/Leetcode/blob/f933f70de131429166f2a83a238446dfa19290c1/Array_String/268.%20Missing%20Number.md)  
+`Easy` [268. Missing Number](https://github.com/Adalyne/Leetcode/blob/f933f70de131429166f2a83a238446dfa19290c1/Array_String/268.%20Missing%20Number.md)   
+`Easy` [977. Squares of a Sorted Array](https://github.com/Adalyne/Leetcode/blob/6c63d367e0515dd03c4f570aab79bd93c54086a1/Array_String/977.%20Squares%20of%20a%20Sorted%20Array.md)  
 
  **Bit Manipulation**  
 `Easy` [67. Add Binary](https://github.com/Adalyne/Leetcode/blob/5d68662269b5006d15c4ed4ea939de7ca3d5e97f/Bit%20Manipulation/67.%20Add%20Binary.md)    
