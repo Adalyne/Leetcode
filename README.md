@@ -20,6 +20,12 @@
 `Medium` [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Adalyne/Leetcode/blob/b2db13557dee15c0fa7df3bf25e59267174b31e6/Binary%20Tree%20General/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)   
 `Easy` [572. Subtree of Another Tree](https://github.com/Adalyne/Leetcode/blob/40715c5fb2e491ef9960e4af55931a83bdc30952/Binary%20Tree%20General/572.%20Subtree%20of%20Another%20Tree.md)  
 
+**Binary Tree of DFS**  
+`Easy` [543. Diameter of Binary Tree](https://github.com/Adalyne/Leetcode/blob/ba3522d90550172dfdcd7535eaeb2231c7e247e5/Binary%20Tree%20DFS/543.%20Diameter%20of%20Binary%20Tree.md)  
+
+**Divide & Conquer**  
+`Easy` [108. Convert Sorted Array to Binary Serch Tree](https://github.com/Adalyne/Leetcode/blob/bdda9e18750572f0a26d041906144f6f0afe48b8/Divide%20%26%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
+
 **Hashmap**  
 `Easy` [1. Two Sum](https://github.com/Adalyne/Leetcode/blob/91d46fd6e67ea0876d96f69d17cf5c71020ed012/Hashmap/1.%20Two%20Sum.md)  
 `Easy` [13. Roman to Integer](https://github.com/Adalyne/Leetcode/blob/f508e148150a891a8853a23700726bea6cf0d32e/Hashmap/13.%20Roman%20to%20Integer.md)  
@@ -28,11 +34,8 @@
 **Interval**   
 `Easy` [57. Insert Interval](https://github.com/Adalyne/Leetcode/blob/0f646f1794c08d4d7f6df44e472b442c84e0afa7/Intervals/57.%20Insert%20Interval.md)  
 
-**Binary Tree of DFS**  
-`Easy` [543. Diameter of Binary Tree](https://github.com/Adalyne/Leetcode/blob/ba3522d90550172dfdcd7535eaeb2231c7e247e5/Binary%20Tree%20DFS/543.%20Diameter%20of%20Binary%20Tree.md)  
-
-**Stack**  
-`Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
+**Kadane's Alogorithm**  
+`Medium` [53. Maximum Subarray](https://github.com/Adalyne/Leetcode/blob/0f638f8fd1a7f9648bf13a1a914da20ee37742f4/Kadane's%20Algorithm/53.%20Maximum%20Subarray.md)  
 
 **Linked List**  
 `Easy` [234. Palindrome Linked List](https://github.com/Adalyne/Leetcode/blob/e851bad72655d7504178778254e92bb89c09848e/Linked%20List/234.%20Palindrome%20Linked%20List.md)  
@@ -41,11 +44,11 @@
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
 `Easy` [66. Plus One](https://github.com/Adalyne/Leetcode/blob/c1e07739a4700b14dcdd6b57802de1d758947294/Math/66.%20Plus%20One.md)  
 
-**Divide & Conquer**  
-`Easy` [108. Convert Sorted Array to Binary Serch Tree](https://github.com/Adalyne/Leetcode/blob/bdda9e18750572f0a26d041906144f6f0afe48b8/Divide%20%26%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
+**Sliding Window**
+`Medium` [3.Longest Substring Without Repeating Characters](https://github.com/Adalyne/Leetcode/blob/b48ce48e1445d4aa03815cb7d7a9e2847c8800a3/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
 
-**Kadane's Alogorithm**  
-`Medium` [53. Maximum Subarray](https://github.com/Adalyne/Leetcode/blob/0f638f8fd1a7f9648bf13a1a914da20ee37742f4/Kadane's%20Algorithm/53.%20Maximum%20Subarray.md)  
+**Stack**  
+`Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
 
 **Others**  
 `Easy` [283. Move Zeroes](https://github.com/Adalyne/Leetcode/blob/6d154a729d59954013b5188dd2d32a759b2abab9/Others/283.%20Move%20Zeroes.md)  
