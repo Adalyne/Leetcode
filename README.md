@@ -44,7 +44,7 @@
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
 `Easy` [66. Plus One](https://github.com/Adalyne/Leetcode/blob/c1e07739a4700b14dcdd6b57802de1d758947294/Math/66.%20Plus%20One.md)  
 
-**Sliding Window**
+**Sliding Window**  
 `Medium` [3.Longest Substring Without Repeating Characters](https://github.com/Adalyne/Leetcode/blob/b48ce48e1445d4aa03815cb7d7a9e2847c8800a3/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
 
 **Stack**  
