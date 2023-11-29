@@ -51,7 +51,7 @@
 `Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
 
 **Two points**  
-`Easy` [ 15. 3Sum](
+`Easy` [ 15. 3Sum](https://github.com/Adalyne/Leetcode/blob/f8066f12450dba65af8ce47adcd3f5cda6a60e56/Two%20Pointers/15.%203Sum.md)  
 
 **Others**  
 `Easy` [283. Move Zeroes](https://github.com/Adalyne/Leetcode/blob/6d154a729d59954013b5188dd2d32a759b2abab9/Others/283.%20Move%20Zeroes.md)  
