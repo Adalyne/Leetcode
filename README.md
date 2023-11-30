@@ -52,6 +52,7 @@
 
 **Stack**  
 `Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
+`Medium` [150. Evaluate Reverse Polish Notation](https://github.com/Adalyne/Leetcode/blob/0064958710b29fa98dbfb459b313fe2e6ddfad9a/Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.md)  
 
 **Two Points**  
 `Easy` [ 15. 3Sum](https://github.com/Adalyne/Leetcode/blob/f8066f12450dba65af8ce47adcd3f5cda6a60e56/Two%20Pointers/15.%203Sum.md)  
