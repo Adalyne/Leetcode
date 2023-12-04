@@ -45,6 +45,7 @@
 `Medium` [53. Maximum Subarray](https://github.com/Adalyne/Leetcode/blob/0f638f8fd1a7f9648bf13a1a914da20ee37742f4/Kadane's%20Algorithm/53.%20Maximum%20Subarray.md)  
 
 **Linked List**  
+`Easy` [21. Merge Two Sorted Lists](https://github.com/Adalyne/Leetcode/blob/f23c4fcdfd7c69db1cf9c2fc2242af613a9b2676/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)   
 `Easy` [234. Palindrome Linked List](https://github.com/Adalyne/Leetcode/blob/e851bad72655d7504178778254e92bb89c09848e/Linked%20List/234.%20Palindrome%20Linked%20List.md)  
 
 **Math**  
