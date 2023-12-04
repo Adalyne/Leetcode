@@ -62,6 +62,7 @@
 `Easy` [ 15. 3Sum](https://github.com/Adalyne/Leetcode/blob/f8066f12450dba65af8ce47adcd3f5cda6a60e56/Two%20Pointers/15.%203Sum.md)  
 
 **Others**  
+`Easy` [20. Valid Parentheses](https://github.com/Adalyne/Leetcode/blob/34eeebc82fc9c434a5195cad0943eb206ea76791/Others/20.%20Valid%20Parentheses.md)   
 `Easy` [283. Move Zeroes](https://github.com/Adalyne/Leetcode/blob/6d154a729d59954013b5188dd2d32a759b2abab9/Others/283.%20Move%20Zeroes.md)  
 `Medium` [542. 01 Matrix](https://github.com/Adalyne/Leetcode/blob/d75005648f591a2407cc11099d93450589dc79f4/Others/542.%2001%20Matrix.md)  
 `Easy` [876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/1d7ff6c0b5aa099c0430e34088aa70b1f5717bb4/Others/876.%20Middle%20of%20the%20Linked.md)  
