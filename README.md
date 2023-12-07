@@ -61,8 +61,9 @@
 `Medium` [3.Longest Substring Without Repeating Characters](https://github.com/Adalyne/Leetcode/blob/b48ce48e1445d4aa03815cb7d7a9e2847c8800a3/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
 
 **Stack**  
-`Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
 `Medium` [150. Evaluate Reverse Polish Notation](https://github.com/Adalyne/Leetcode/blob/0064958710b29fa98dbfb459b313fe2e6ddfad9a/Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.md)  
+`Medium` [155. Min Stack](https://github.com/Adalyne/Leetcode/blob/821b3ea481374572702fed4a6b60edd876817f41/Stack/155.%20Min%20Stack.md)  
+`Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
 
 **Two Points**  
 `Easy` [ 15. 3Sum](https://github.com/Adalyne/Leetcode/blob/f8066f12450dba65af8ce47adcd3f5cda6a60e56/Two%20Pointers/15.%203Sum.md)  
