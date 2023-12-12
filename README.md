@@ -13,6 +13,9 @@
 `Easy` [191. Number of 1 Bits](https://github.com/Adalyne/Leetcode/blob/97b4f2ffaabf541a9c7afbb21a3da51020ae28f0/Bit%20Manipulation/191.%20Number%20of%201%20Bits.md)  
 `Easy` [338. Counting Bits](https://github.com/Adalyne/Leetcode/blob/45339c69cf3fa2972bba813107df9e809f8cacf5/Bit%20Manipulation/338.%20Counting%20Bits.md)  
 
+**Binary Search**  
+`Medium` [33. Search in Rotated Sorted Array](https://github.com/Adalyne/Leetcode/blob/027247167838dcfd80076d8b0d3056b4bd1a680b/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)  
+
 **Binary Search Tree**  
 `Medium` [98. Validate Binary Search Tree](https://github.com/Adalyne/Leetcode/blob/736c7d818497318b92c925d7f5fd67143511e62c/Binary%20Search%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)  
 
