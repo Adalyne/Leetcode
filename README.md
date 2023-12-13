@@ -35,6 +35,9 @@
 **Binary Tree of DFS**  
 `Easy` [543. Diameter of Binary Tree](https://github.com/Adalyne/Leetcode/blob/ba3522d90550172dfdcd7535eaeb2231c7e247e5/Binary%20Tree%20DFS/543.%20Diameter%20of%20Binary%20Tree.md)  
 
+**Backtracking**  
+`Medium` [39. Combination Sum](https://github.com/Adalyne/Leetcode/blob/7e27475c651949771da2879d9bd0009b4dd0f0ed/Backtracking/39.%20Combination%20Sum.md)  
+
 **Divide & Conquer**  
 `Easy` [108. Convert Sorted Array to Binary Serch Tree](https://github.com/Adalyne/Leetcode/blob/bdda9e18750572f0a26d041906144f6f0afe48b8/Divide%20%26%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
 
