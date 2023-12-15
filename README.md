@@ -56,7 +56,7 @@
 `Easy` [217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
 
 **Interval**   
-`Medium` [56. Merge Intervals](https://github.com/Adalyne/Leetcode/blob/80d9c5164f3b5a271929b0dc0de03aa78572fe02/Array_String/56.%20Merge%20Intervals.md)  
+`Medium` [56. Merge Intervals](https://github.com/Adalyne/Leetcode/blob/7f6ef023520a6ef65a44aa302f4159c8245c44d3/Intervals/56.%20Merge%20Intervals.md)  
 `Easy` [57. Insert Interval](https://github.com/Adalyne/Leetcode/blob/0f646f1794c08d4d7f6df44e472b442c84e0afa7/Intervals/57.%20Insert%20Interval.md)  
 
 **Kadane's Alogorithm**  
