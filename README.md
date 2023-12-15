@@ -1,7 +1,6 @@
 # Leetcode
 **Array_String**  
 `Easy` [14. Longest Common Prefix](https://github.com/Adalyne/Leetcode/blob/ffcae61b244916146e1af3e08c940e12313fe987/Array_String/14.%20Longest%20Common%20Prefix.md)  
-`Medium` [56. Merge Intervals](https://github.com/Adalyne/Leetcode/blob/80d9c5164f3b5a271929b0dc0de03aa78572fe02/Array_String/56.%20Merge%20Intervals.md)  
 `Medium` [238. Product of Array Except Self](https://github.com/Adalyne/Leetcode/blob/2de4289bed51b3b2089076d232ed5df56de2f9da/Array_String/238.%20Product%20of%20Array%20Except%20Self.md)  
 `Easy` [268. Missing Number](https://github.com/Adalyne/Leetcode/blob/f933f70de131429166f2a83a238446dfa19290c1/Array_String/268.%20Missing%20Number.md)   
 `Medium` [973. K Closest Points to Origin](https://github.com/Adalyne/Leetcode/blob/962d45f6a78dd86fd0fb6636fcad4a1a2a35f61a/Array_String/973.%20K%20Closest%20Points%20to%20Origin.md)  
@@ -57,6 +56,7 @@
 `Easy` [217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
 
 **Interval**   
+`Medium` [56. Merge Intervals](https://github.com/Adalyne/Leetcode/blob/80d9c5164f3b5a271929b0dc0de03aa78572fe02/Array_String/56.%20Merge%20Intervals.md)  
 `Easy` [57. Insert Interval](https://github.com/Adalyne/Leetcode/blob/0f646f1794c08d4d7f6df44e472b442c84e0afa7/Intervals/57.%20Insert%20Interval.md)  
 
 **Kadane's Alogorithm**  
