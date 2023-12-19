@@ -46,6 +46,7 @@
 
 **1D DP**  
 `Easy` [70. Climbing Staris](https://github.com/Adalyne/Leetcode/blob/c3b29eec1a9b699aa1deb16ca0dc425b64c5006f/1D%20DP/70.%20Climbing%20Stairs.md)  
+`Medium` [139.Word Break](https://github.com/Adalyne/Leetcode/blob/1a17ae00f851a4b8992abf0a8a1b68d26cadc54e/1D%20DP/139.%20Word%20Break.md)  
 `Medium` [322. Coins Change](https://github.com/Adalyne/Leetcode/blob/d49dd2d3333da80b7a47eae583fc80b69c249ca8/1D%20DP/322.%20Coin%20Change.md)  
 
 **Grapf General**  
