@@ -36,6 +36,7 @@
 
 **Binary Tree of DFS**  
 `Easy` [543. Diameter of Binary Tree](https://github.com/Adalyne/Leetcode/blob/ba3522d90550172dfdcd7535eaeb2231c7e247e5/Binary%20Tree%20DFS/543.%20Diameter%20of%20Binary%20Tree.md)  
+`Medium` [721. Accounts Merge](https://github.com/Adalyne/Leetcode/blob/87683ce62b391ed2ed8027a7c95e8edab4649cf1/Binary%20Tree%20DFS/721.%20Accounts%20Merge.md)  
 
 **Backtracking**  
 `Medium` [39. Combination Sum](https://github.com/Adalyne/Leetcode/blob/7e27475c651949771da2879d9bd0009b4dd0f0ed/Backtracking/39.%20Combination%20Sum.md)  
