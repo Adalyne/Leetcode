@@ -50,6 +50,7 @@
 `Medium` [139.Word Break](https://github.com/Adalyne/Leetcode/blob/1a17ae00f851a4b8992abf0a8a1b68d26cadc54e/1D%20DP/139.%20Word%20Break.md)  
 `Medium` [322. Coins Change](https://github.com/Adalyne/Leetcode/blob/d49dd2d3333da80b7a47eae583fc80b69c249ca8/1D%20DP/322.%20Coin%20Change.md)  
 `Medium` [416. Partition Equal Subset Sum](https://github.com/Adalyne/Leetcode/blob/531554fe5aa837d052dd5333810a60050f0db80c/1D%20DP/416.%20Partition%20Equal%20Subset%20Sum.md)  
+`Medium` [2976. Minimum Cost to Convert String I](https://github.com/Adalyne/Leetcode/blob/e0924ad9b1fe8281344daa278fb9d1d029fda7f7/1D%20DP/2976.%20Minimum%20Cost%20to%20Convert%20String%20I.md)  
 
 **Grapf General**  
 `Medium` [133. Clone Graph](https://github.com/Adalyne/Leetcode/blob/27c811ab314b010b21d30fa2412da6917bd7753b/Graph%20General/133.%20Clone%20Graph.md)  
