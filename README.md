@@ -25,6 +25,7 @@
 `Easy` [100. Same Tree](https://github.com/Adalyne/Leetcode/blob/2ff8a74043edbe72fed3d906cf81218e983918d5/Binary%20Tree%20General/100.%20Same%20Tree.md)  
 `Easy` [101. Symmetric Tree](https://github.com/Adalyne/Leetcode/blob/21297642a46057daea47bc5e055bc0e139c675cd/Binary%20Tree%20General/101.%20Symmetric%20Tree.md)  
 `Easy` [104. Maximun Depth of Binary Tree](https://github.com/Adalyne/Leetcode/blob/f6d1eccb8762a1e0310aa489a05d530f292baba1/Binary%20Tree%20General/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
+`Medium` [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Adalyne/Leetcode/blob/909e455173af7d112d44aad1b0d008504e80e3f4/Binary%20Tree%20General/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)  
 `Easy` [110. Balenced Binary Tree](https://github.com/Adalyne/Leetcode/blob/8cf9a4a4af2ea7b654b8f51a0663060372974b24/Binary%20Tree%20General/110.%20Balanced%20Binary%20Tree.md)   
 `Medium` [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Adalyne/Leetcode/blob/b2db13557dee15c0fa7df3bf25e59267174b31e6/Binary%20Tree%20General/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)   
 `Medium` [236.Lowest Common Ancestor of a Binary Tree](https://github.com/Adalyne/Leetcode/blob/3a1ae05a0c5d192cf9102348909c7ae18aabf844/Binary%20Tree%20General/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)  
