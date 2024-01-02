@@ -46,6 +46,7 @@
 `Medium` [17. Letter Combinations of a Phone Number](https://github.com/Adalyne/Leetcode/blob/d45b9b1c00cfdcd6c0080b7ff298c75250d57695/Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
 `Medium` [39. Combination Sum](https://github.com/Adalyne/Leetcode/blob/7e27475c651949771da2879d9bd0009b4dd0f0ed/Backtracking/39.%20Combination%20Sum.md)  
 `Medium` [46.Permutation](https://github.com/Adalyne/Leetcode/blob/ae9bf2383e4fcd2e91cef171f2cc4966a0fc4b3f/Backtracking/46.%20Permutations.md)  
+`Medium` [79. Word Search](https://github.com/Adalyne/Leetcode/blob/0c0fdad1bf88ab7030f1c271ec943b25fe5c5761/Backtracking/79.%20Word%20Search.md)  
 
 **Divide & Conquer**  
 `Easy` [108. Convert Sorted Array to Binary Serch Tree](https://github.com/Adalyne/Leetcode/blob/bdda9e18750572f0a26d041906144f6f0afe48b8/Divide%20%26%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
