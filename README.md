@@ -74,6 +74,9 @@
 `Medium` [981. Time Based Key-Value Store](https://github.com/Adalyne/Leetcode/blob/0d8dafc86e7369bf7efc85ba48c8fcb2df83b341/Hashmap/981.%20Time%20Based%20Key-Value%20Store.md)  \
 `Easy` [1897. Redistribute Characters to Make All Strings Equal](https://github.com/Adalyne/Leetcode/blob/ff5679059b61ad045f73c23716627efcd49be91d/Hashmap/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.md)  
 
+**Heap**  
+`Medium` [621. Task Scheduler](https://github.com/Adalyne/Leetcode/blob/73e18e3593f5356e0e4d517292d1e3c6d9752160/Heap/621.%20Task%20Scheduler.md)  
+
 **Interval**   
 `Medium` [56. Merge Intervals](https://github.com/Adalyne/Leetcode/blob/7f6ef023520a6ef65a44aa302f4159c8245c44d3/Intervals/56.%20Merge%20Intervals.md)  
 `Easy` [57. Insert Interval](https://github.com/Adalyne/Leetcode/blob/0f646f1794c08d4d7f6df44e472b442c84e0afa7/Intervals/57.%20Insert%20Interval.md)  
