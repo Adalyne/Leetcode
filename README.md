@@ -19,6 +19,7 @@
 
 **Binary Search**  
 `Medium` [33. Search in Rotated Sorted Array](https://github.com/Adalyne/Leetcode/blob/027247167838dcfd80076d8b0d3056b4bd1a680b/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)  
+`Medium` [230. kth Smallest Element in a BST](https://github.com/Adalyne/Leetcode/blob/e70ea36adaf53a67e8595da6d8720b72bcae174f/Binary%20Search%20Tree/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)  
 
 **Binary Search Tree**  
 `Medium` [98. Validate Binary Search Tree](https://github.com/Adalyne/Leetcode/blob/736c7d818497318b92c925d7f5fd67143511e62c/Binary%20Search%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)  
