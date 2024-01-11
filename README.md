@@ -113,6 +113,7 @@
 **Two Points**  
 `Medium` [11. Container With Most Water](https://github.com/Adalyne/Leetcode/blob/810c42ce57762d52f134a975a19c158a7d898e62/Two%20Pointers/11.%20Container%20With%20Most%20Water.md)  
 `Easy` [ 15. 3Sum](https://github.com/Adalyne/Leetcode/blob/f8066f12450dba65af8ce47adcd3f5cda6a60e56/Two%20Pointers/15.%203Sum.md)  
+`Medium` [31. Next Permutation](https://github.com/Adalyne/Leetcode/blob/399c913a1e61e2eae24de7f17e28f6b930831edb/Two%20Pointers/31.%20Next%20Permutation.md)  
 
 **Trie**  
 `Medium` [208. Implement Trie(Prefix Tree)](https://github.com/Adalyne/Leetcode/blob/ac7926dd0ee75499159c2f1a244471cb537d71e0/Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
