@@ -71,7 +71,7 @@
 `Medium` [133. Clone Graph](https://github.com/Adalyne/Leetcode/blob/27c811ab314b010b21d30fa2412da6917bd7753b/Graph%20General/133.%20Clone%20Graph.md)  
 `Medium` [207. Course Schedule](https://github.com/Adalyne/Leetcode/blob/f4e1e7348912f0e817caf76953c1a7bad5215ae9/Graph%20General/207.%20Course%20Schedule.md)  
 
-**Greedy**
+**Greedy**  
 `Mwdium` [134. Gas Station](https://github.com/Adalyne/Leetcode/blob/fa398fdf636872bbd7da7ad3d276c3ed1759dddc/Greedy/134.%20Gas%20Station.md)  
 
 **Hashmap**  
