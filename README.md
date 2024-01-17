@@ -67,9 +67,12 @@
 **Multidimensional DP**  
 `Medium`[5. Longest Palindromic Substring](https://github.com/Adalyne/Leetcode/blob/7c9853efcec33b279d8d117e9cc0a8dab05b28ca/Multidimensional%20DP/5.%20Longest%20Palindromic%20Substring.md)  
 
-**Grapf General**  
+**Graph General**  
 `Medium` [133. Clone Graph](https://github.com/Adalyne/Leetcode/blob/27c811ab314b010b21d30fa2412da6917bd7753b/Graph%20General/133.%20Clone%20Graph.md)  
 `Medium` [207. Course Schedule](https://github.com/Adalyne/Leetcode/blob/f4e1e7348912f0e817caf76953c1a7bad5215ae9/Graph%20General/207.%20Course%20Schedule.md)  
+
+**Greedy**
+`Mwdium` [134. Gas Station](https://github.com/Adalyne/Leetcode/blob/fa398fdf636872bbd7da7ad3d276c3ed1759dddc/Greedy/134.%20Gas%20Station.md)  
 
 **Hashmap**  
 `Easy` [1. Two Sum](https://github.com/Adalyne/Leetcode/blob/91d46fd6e67ea0876d96f69d17cf5c71020ed012/Hashmap/1.%20Two%20Sum.md)  
