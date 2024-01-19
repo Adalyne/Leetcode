@@ -123,6 +123,7 @@
 
 **Trie**  
 `Medium` [208. Implement Trie(Prefix Tree)](https://github.com/Adalyne/Leetcode/blob/ac7926dd0ee75499159c2f1a244471cb537d71e0/Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
+`Medium` [211. Design Add and Search Words Data Structure](https://github.com/Adalyne/Leetcode/blob/c9f105187ac3b50cb5ba3763188637647ea00fc1/Trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
 
 **Others**  
 `Medium` [8. String to Integer (atoi)](https://github.com/Adalyne/Leetcode/blob/5cc8e3e9991e8314a9cc96954804d6947d5a424c/Others/8.%20String%20to%20Integer%20(atoi).md)  
