@@ -83,6 +83,7 @@
 `Easy` [217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
 `Medium` [981. Time Based Key-Value Store](https://github.com/Adalyne/Leetcode/blob/0d8dafc86e7369bf7efc85ba48c8fcb2df83b341/Hashmap/981.%20Time%20Based%20Key-Value%20Store.md)  \
 `Easy` [1897. Redistribute Characters to Make All Strings Equal](https://github.com/Adalyne/Leetcode/blob/ff5679059b61ad045f73c23716627efcd49be91d/Hashmap/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.md)  
+`Medium` [3016. Minimum Number of Pushrs to Type Word II](https://github.com/Adalyne/Leetcode/blob/a0af7db2489f7a4df086ccdc6da2f07c6fb517f9/Hashmap/3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.md)  
 
 **Heap**  
 `Medium` [621. Task Scheduler](https://github.com/Adalyne/Leetcode/blob/73e18e3593f5356e0e4d517292d1e3c6d9752160/Heap/621.%20Task%20Scheduler.md)  
