@@ -134,5 +134,5 @@
 `Medium` [542. 01 Matrix](https://github.com/Adalyne/Leetcode/blob/d75005648f591a2407cc11099d93450589dc79f4/Others/542.%2001%20Matrix.md)  
 `Easy` [876. Middle of the Linked List](https://github.com/Adalyne/Leetcode/blob/1d7ff6c0b5aa099c0430e34088aa70b1f5717bb4/Others/876.%20Middle%20of%20the%20Linked.md)  
 `Medium` [2975. Maximum Square Area by Removing Fences From a Field](https://github.com/Adalyne/Leetcode/blob/7d1c780906eb3bee527606c818488b94161a6457/Others/2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field.md) 
-`Medium` [3014. Minimum Number of Pushes to Type Word I]
+`Medium` [3014. Minimum Number of Pushes to Type Word I](https://github.com/Adalyne/Leetcode/blob/9257068dd4ec3ac5cafa227360d00003415199e8/Others/3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I.md)  
 `Medium` [10036. Minimum Moves to Capture The Queen](https://github.com/Adalyne/Leetcode/blob/b5a68ba679f6914839a03c4fbdf5429aef5d5497/Others/10036.%20Minimum%20Moves%20to%20Capture%20The%20Queen.md)  
