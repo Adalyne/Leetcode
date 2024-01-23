@@ -5,6 +5,7 @@
 `Medium` [75.Sort Colors](https://github.com/Adalyne/Leetcode/blob/6b3bad378fb080d01a5403f61f2509e3e8d79327/Array_String/75.%20Sort%20Colors.md)  
 `Medium` [238. Product of Array Except Self](https://github.com/Adalyne/Leetcode/blob/2de4289bed51b3b2089076d232ed5df56de2f9da/Array_String/238.%20Product%20of%20Array%20Except%20Self.md)  
 `Easy` [268. Missing Number](https://github.com/Adalyne/Leetcode/blob/f933f70de131429166f2a83a238446dfa19290c1/Array_String/268.%20Missing%20Number.md)   
+`Medium` [287. Find the Duplicate Number](https://github.com/Adalyne/Leetcode/blob/4c868e8dfc2b590639351901c73d635742ca3acc/Array_String/287.%20Find%20the%20Duplicate%20Number.md)  
 `Medium` [973. K Closest Points to Origin](https://github.com/Adalyne/Leetcode/blob/962d45f6a78dd86fd0fb6636fcad4a1a2a35f61a/Array_String/973.%20K%20Closest%20Points%20to%20Origin.md)  
 `Easy` [977. Squares of a Sorted Array](https://github.com/Adalyne/Leetcode/blob/6c63d367e0515dd03c4f570aab79bd93c54086a1/Array_String/977.%20Squares%20of%20a%20Sorted%20Array.md)  
 `Easy` [2974. Minimum Number Game](https://github.com/Adalyne/Leetcode/blob/067c229913a78684027ca89568901684e4c0e141/Array_String/2974.%20Minimum%20Number%20Game.md)  
