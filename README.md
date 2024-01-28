@@ -9,6 +9,7 @@
 `Medium` [973. K Closest Points to Origin](https://github.com/Adalyne/Leetcode/blob/962d45f6a78dd86fd0fb6636fcad4a1a2a35f61a/Array_String/973.%20K%20Closest%20Points%20to%20Origin.md)  
 `Easy` [977. Squares of a Sorted Array](https://github.com/Adalyne/Leetcode/blob/6c63d367e0515dd03c4f570aab79bd93c54086a1/Array_String/977.%20Squares%20of%20a%20Sorted%20Array.md)  
 `Easy` [2974. Minimum Number Game](https://github.com/Adalyne/Leetcode/blob/067c229913a78684027ca89568901684e4c0e141/Array_String/2974.%20Minimum%20Number%20Game.md)  
+`Medium` [3019. Number of Changing Keys](https://github.com/Adalyne/Leetcode/blob/d1df4ac35362e805d003267f19674919736e053a/Array_String/3019.%20Number%20of%20Changing%20Keys.md)  
 `Easy` [10035. Maximum Area of Longest Diagonal Rectangle](https://github.com/Adalyne/Leetcode/blob/560dd1ae999175f064511ee66dfd41702bde9999/Array_String/10035.%20Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.md)  
 `Medium` [10037. Maximum Size of a Set After Removels](https://github.com/Adalyne/Leetcode/blob/e9a4ae2d23c46840c5ff38ec34636ca645f8ad35/Array_String/10037.%20Maximum%20Size%20of%20a%20Set%20After%20Removals.md)  
 
