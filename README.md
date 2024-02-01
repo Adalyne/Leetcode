@@ -110,6 +110,7 @@
 `Medium` [24. Swap Nodes in Pairs](https://github.com/Adalyne/Leetcode/blob/6d3c8104793788697098aa270a07ee5c8ce52580/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs.md)  
 `Medium` [146. LRU Cache](https://github.com/Adalyne/Leetcode/blob/ce3c44e45d89f57dc53a725bfc5345c78f15612c/Linked%20List/146.%20LRU%20Cache.md)  
 `Easy` [234. Palindrome Linked List](https://github.com/Adalyne/Leetcode/blob/e851bad72655d7504178778254e92bb89c09848e/Linked%20List/234.%20Palindrome%20Linked%20List.md)  
+`Medium` [328. Odd Even Linked List](https://github.com/Adalyne/Leetcode/blob/faf1e74182f544b0f8e40cf4336287260ade2b11/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)  
 
 **Math**  
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
