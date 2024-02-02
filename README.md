@@ -127,6 +127,7 @@
 **Stack**  
 `Medium` [150. Evaluate Reverse Polish Notation](https://github.com/Adalyne/Leetcode/blob/0064958710b29fa98dbfb459b313fe2e6ddfad9a/Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.md)  
 `Medium` [155. Min Stack](https://github.com/Adalyne/Leetcode/blob/821b3ea481374572702fed4a6b60edd876817f41/Stack/155.%20Min%20Stack.md)  
+`Medium` [394. Decode String](https://github.com/Adalyne/Leetcode/blob/6f94b81efb5dcfc2416cbda11045cbc58408abc4/Stack/394.%20Decode%20String.md)  
 `Medium` [739. Daily Temperatures](https://github.com/Adalyne/Leetcode/blob/5866d02056846642cf68ed3d30bbe920e089a8b3/Stack/739.%20Daily%20Temperatures.md)  
 `Easy` [844. Backspace String Compare](https://github.com/Adalyne/Leetcode/blob/ec8da73b44239e59ed9416a39bbf961d5cc65e08/Stack/844.%20Backspace%20String%20Compare.md)  
 
