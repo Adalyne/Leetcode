@@ -89,6 +89,7 @@
 `Easy` [13. Roman to Integer](https://github.com/Adalyne/Leetcode/blob/f508e148150a891a8853a23700726bea6cf0d32e/Hashmap/13.%20Roman%20to%20Integer.md)  
 `Medium` [128. Longest Consecutive Sequence](https://github.com/Adalyne/Leetcode/blob/87323541005cb536173125efd84e79a1bdb41fa5/Hashmap/128.%20Longest%20Consecutive%20Sequence.md)  
 `Easy` [217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
+`Medium` [525. Contiguous Array](https://github.com/Adalyne/Leetcode/blob/da9b8a1ea2992921df14264354585e79d7b81dcf/Hashmap/525.%20Contiguous%20Array.md)  
 `Medium`[692. Top K Frequent Words](https://github.com/Adalyne/Leetcode/blob/38c0b0c15d1047b0653c433c87432bd7685d56b4/Hashmap/692.%20Top%20K%20Frequent%20Words.md)  
 `Medium` [981. Time Based Key-Value Store](https://github.com/Adalyne/Leetcode/blob/0d8dafc86e7369bf7efc85ba48c8fcb2df83b341/Hashmap/981.%20Time%20Based%20Key-Value%20Store.md)  
 `Easy` [1897. Redistribute Characters to Make All Strings Equal](https://github.com/Adalyne/Leetcode/blob/ff5679059b61ad045f73c23716627efcd49be91d/Hashmap/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.md)  
