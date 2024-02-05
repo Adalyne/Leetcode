@@ -94,6 +94,7 @@
 `Easy` [1897. Redistribute Characters to Make All Strings Equal](https://github.com/Adalyne/Leetcode/blob/ff5679059b61ad045f73c23716627efcd49be91d/Hashmap/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.md)  
 `Medium` [3016. Minimum Number of Pushrs to Type Word II](https://github.com/Adalyne/Leetcode/blob/a0af7db2489f7a4df086ccdc6da2f07c6fb517f9/Hashmap/3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.md)  
 `Medium` [3020. Find Maximum Number of Elements in Subset](https://github.com/Adalyne/Leetcode/blob/9a5de77e67b5c5fcdf07014bcd017584a9e5114f/Hashmap/3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset.md)  
+`Medium` [3030. Find the Grid of Region Avarage](https://github.com/Adalyne/Leetcode/blob/2d9ae3885bd1f933303f15b7b99b1a0735b44f2c/Hashmap/3030.%20Find%20the%20Grid%20of%20Region%20Average.md)  
 
 **Heap**  
 `Medium` [621. Task Scheduler](https://github.com/Adalyne/Leetcode/blob/73e18e3593f5356e0e4d517292d1e3c6d9752160/Heap/621.%20Task%20Scheduler.md)  
