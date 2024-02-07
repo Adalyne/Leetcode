@@ -45,6 +45,7 @@
 `Medium` [199. Binary Tree Right Side View](https://github.com/Adalyne/Leetcode/blob/32ba8e024a9094399c476358d285c1d6d1c93bb7/Binary%20Tree%20BFS/199.%20Binary%20Tree%20Right%20Side%20View.md)  
 `Medium` [200. Number of Islands](https://github.com/Adalyne/Leetcode/blob/0a7b9756c0787631f774caa4ba7d6bbfc91b8b7a/Binary%20Tree%20BFS/200.%20Number%20of%20Islands.md)  
 `Medium` [310. Minimum Height Trees](https://github.com/Adalyne/Leetcode/blob/d2c35f0f62e1ef9061d2f8029dab68e0c319b9db/Binary%20Tree%20BFS/310.%20Minimum%20Height%20Trees.md)  
+`Medium` [662. Maximum Width of Binary Tree](https://github.com/Adalyne/Leetcode/blob/706390888e1a356a65424de135ecc941a4b9db9a/Binary%20Tree%20BFS/662.%20Maximum%20Width%20of%20Binary%20Tree.md)  
 `Medium` [994. Rotting Oranges](https://github.com/Adalyne/Leetcode/blob/cdedc169b1c5d52169281365a01d1ceba1429a10/Binary%20Tree%20BFS/994.%20Rotting%20Oranges.md)  
 
 **Binary Tree of DFS**  
