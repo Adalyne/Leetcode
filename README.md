@@ -64,7 +64,7 @@
 `Easy` [108. Convert Sorted Array to Binary Serch Tree](https://github.com/Adalyne/Leetcode/blob/bdda9e18750572f0a26d041906144f6f0afe48b8/Divide%20%26%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
 
 **1D DP**  
-`Mwdium` [55. Jump Game](https://github.com/Adalyne/Leetcode/blob/0eeb54c1b50eaaf887fe3cde51e089a2d5d603d3/1D%20DP/55.%20Jump%20Game.md)  
+`Mwdium` [55. Jump Game I](https://github.com/Adalyne/Leetcode/blob/0eeb54c1b50eaaf887fe3cde51e089a2d5d603d3/1D%20DP/55.%20Jump%20Game.md)  
 `Medium` [62. Unique Paths](https://github.com/Adalyne/Leetcode/blob/6ac8049c7c186a9ae8c19e100153b67866960d9c/1D%20DP/62.%20Unique%20Paths.md)  
 `Easy` [70. Climbing Staris](https://github.com/Adalyne/Leetcode/blob/c3b29eec1a9b699aa1deb16ca0dc425b64c5006f/1D%20DP/70.%20Climbing%20Stairs.md)  
 `Medium` [139.Word Break](https://github.com/Adalyne/Leetcode/blob/1a17ae00f851a4b8992abf0a8a1b68d26cadc54e/1D%20DP/139.%20Word%20Break.md)  
@@ -85,6 +85,7 @@
 `Medium` [3015. Count the Number of Houses at a certain Distence I](https://github.com/Adalyne/Leetcode/blob/12d91a57c8770702ab6c3fa8547989defad049b9/Graph%20General/3015.%20Count%20the%20Number%20of%20Houses%20at%20a%20Certain%20Distance%20I.md)  
 
 **Greedy**  
+`Medium` [45. Jump Game II](https://github.com/Adalyne/Leetcode/blob/b11a256350f3202126ff83777f4bc5e8e48f2b1b/Greedy/45.%20Jump%20Game%20II.md)  
 `Mwdium` [134. Gas Station](https://github.com/Adalyne/Leetcode/blob/fa398fdf636872bbd7da7ad3d276c3ed1759dddc/Greedy/134.%20Gas%20Station.md)  
 
 **Hashmap**  
