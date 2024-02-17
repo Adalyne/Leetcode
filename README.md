@@ -120,6 +120,7 @@
 `Easy` [21. Merge Two Sorted Lists](https://github.com/Adalyne/Leetcode/blob/f23c4fcdfd7c69db1cf9c2fc2242af613a9b2676/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)   
 `Medium` [24. Swap Nodes in Pairs](https://github.com/Adalyne/Leetcode/blob/6d3c8104793788697098aa270a07ee5c8ce52580/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs.md)  
 `Medium` [146. LRU Cache](https://github.com/Adalyne/Leetcode/blob/ce3c44e45d89f57dc53a725bfc5345c78f15612c/Linked%20List/146.%20LRU%20Cache.md)  
+`Medium` [148. Sort List](https://github.com/Adalyne/Leetcode/blob/923f992001eea4be04faa4a68991f789e49e92bd/Linked%20List/148.%20Sort%20List.md)  
 `Easy` [234. Palindrome Linked List](https://github.com/Adalyne/Leetcode/blob/e851bad72655d7504178778254e92bb89c09848e/Linked%20List/234.%20Palindrome%20Linked%20List.md)  
 `Medium` [328. Odd Even Linked List](https://github.com/Adalyne/Leetcode/blob/faf1e74182f544b0f8e40cf4336287260ade2b11/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)  
 
