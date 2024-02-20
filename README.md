@@ -133,6 +133,7 @@
 **Mtrix**  
 `Medium` [36. Valid Sudoku](https://github.com/Adalyne/Leetcode/blob/6f02d032873ef16e2cd831b00f1526a222da07e1/Matrix/36.%20Valid%20Sudoku.md)  
 `Medium` [54. Spiral Matrix](https://github.com/Adalyne/Leetcode/blob/13aa632b20bb081463fa173e44f893b8ea179ef0/Matrix/54.%20Spiral%20Matrix.md)  
+`Medium` [3044. Most Frequent Prime](https://github.com/Adalyne/Leetcode/blob/eea4e19fbba37ba0799884fa7bc4351b72ad31fd/Matrix/3044.%20Most%20Frequent%20Prime.md)  
 
 **Sliding Window**  
 `Medium` [3.Longest Substring Without Repeating Characters](https://github.com/Adalyne/Leetcode/blob/b48ce48e1445d4aa03815cb7d7a9e2847c8800a3/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
