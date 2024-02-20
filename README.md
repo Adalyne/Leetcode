@@ -154,6 +154,7 @@
 **Trie**  
 `Medium` [208. Implement Trie(Prefix Tree)](https://github.com/Adalyne/Leetcode/blob/ac7926dd0ee75499159c2f1a244471cb537d71e0/Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md)  
 `Medium` [211. Design Add and Search Words Data Structure](https://github.com/Adalyne/Leetcode/blob/c9f105187ac3b50cb5ba3763188637647ea00fc1/Trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)  
+`Medium` [3043. Find the Length of the Longest Common Prefix](https://github.com/Adalyne/Leetcode/blob/529d41632fd37ac6a494911c47432491a590912a/Trie/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.md)  
 
 **Others**  
 `Medium` [8. String to Integer (atoi)](https://github.com/Adalyne/Leetcode/blob/5cc8e3e9991e8314a9cc96954804d6947d5a424c/Others/8.%20String%20to%20Integer%20(atoi).md)  
