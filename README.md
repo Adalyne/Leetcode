@@ -97,6 +97,7 @@
 `Easy` [217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
 `Medium` [424. Longest Repeating Character Replacement](https://github.com/Adalyne/Leetcode/blob/6082adabbee68faf73c3ecfb691f23c88362cc63/Hashmap/424.%20Longest%20Repeating%20Character%20Replacement.md)  
 `Medium` [525. Contiguous Array](https://github.com/Adalyne/Leetcode/blob/da9b8a1ea2992921df14264354585e79d7b81dcf/Hashmap/525.%20Contiguous%20Array.md)  
+`Medium` [560. Subarray Sum Equals K](https://github.com/Adalyne/Leetcode/blob/769743d98835de9ed00d1aad8ac96bd091e1c543/Hashmap/560.%20Subarray%20Sum%20Equals%20K.md)  
 `Medium`[692. Top K Frequent Words](https://github.com/Adalyne/Leetcode/blob/38c0b0c15d1047b0653c433c87432bd7685d56b4/Hashmap/692.%20Top%20K%20Frequent%20Words.md)  
 `Medium` [981. Time Based Key-Value Store](https://github.com/Adalyne/Leetcode/blob/0d8dafc86e7369bf7efc85ba48c8fcb2df83b341/Hashmap/981.%20Time%20Based%20Key-Value%20Store.md)  
 `Easy` [1897. Redistribute Characters to Make All Strings Equal](https://github.com/Adalyne/Leetcode/blob/ff5679059b61ad045f73c23716627efcd49be91d/Hashmap/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.md)  
