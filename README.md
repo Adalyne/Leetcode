@@ -17,6 +17,7 @@
 `Medium` [10037. Maximum Size of a Set After Removels](https://github.com/Adalyne/Leetcode/blob/e9a4ae2d23c46840c5ff38ec34636ca645f8ad35/Array_String/10037.%20Maximum%20Size%20of%20a%20Set%20After%20Removals.md)  
 
  **Bit Manipulation**  
+ `Medium` [50. Pow(x, n)](https://github.com/Adalyne/Leetcode/blob/cb715d8df426f3917e65a134a2a1da2ff1e34d4e/Bit%20Manipulation/50.%20Pow(x%2C%20n).md)  
 `Easy` [67. Add Binary](https://github.com/Adalyne/Leetcode/blob/5d68662269b5006d15c4ed4ea939de7ca3d5e97f/Bit%20Manipulation/67.%20Add%20Binary.md)    
 `Easy` [136. Single Number](https://github.com/Adalyne/Leetcode/blob/c80f4384411bfc1001e4176b4dcb306653855f4a/Bit%20Manipulation/136.%20Single%20Number.md)  
 `Easy` [190. Reverse Bits](https://github.com/Adalyne/Leetcode/blob/da958861963f2896c743f042ee3c934406df4e86/Bit%20Manipulation/190.%20Reverse%20Bits.md)  
