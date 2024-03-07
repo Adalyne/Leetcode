@@ -26,6 +26,7 @@
 
 **Binary Search**  
 `Medium` [33. Search in Rotated Sorted Array](https://github.com/Adalyne/Leetcode/blob/027247167838dcfd80076d8b0d3056b4bd1a680b/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)  
+`Medium` [74. Search a 2D Matrix](https://github.com/Adalyne/Leetcode/blob/c991a82f290800da657df4010fd5cec5d604fa45/Binary%20Search/74.%20Search%20a%202D%20Matrix.md)  
 `Medium` [528. Random Pick with Weight](https://github.com/Adalyne/Leetcode/blob/10e0de987cf23bddddc65eeee5b1854eb227e611/Binary%20Search/528.%20Random%20Pick%20with%20Weight.md)  
 
 **Binary Search Tree**  
