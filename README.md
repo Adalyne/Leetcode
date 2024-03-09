@@ -3,6 +3,7 @@
 `Easy` [14. Longest Common Prefix](https://github.com/Adalyne/Leetcode/blob/ffcae61b244916146e1af3e08c940e12313fe987/Array_String/14.%20Longest%20Common%20Prefix.md)  
 `Medium` [49. Group Anagrams](https://github.com/Adalyne/Leetcode/blob/42bf1c957eb9c7aacf722e312b090b7751ebedce/Array_String/49.%20Group%20Anagrams.md)  
 `Medium` [75.Sort Colors](https://github.com/Adalyne/Leetcode/blob/6b3bad378fb080d01a5403f61f2509e3e8d79327/Array_String/75.%20Sort%20Colors.md)  
+`Medium` [179. Largest Number](https://github.com/Adalyne/Leetcode/blob/228df409e55f15229f6f82ef231b30806d0698bc/Array_String/179.%20Largest%20Number.md)  
 `Medium` [189. Rotated Array](https://github.com/Adalyne/Leetcode/blob/cf2c493a92d1599b3052f06c2d2af76a1452c307/Array_String/189.%20Rotate%20Array.md)  
 `Medium` [238. Product of Array Except Self](https://github.com/Adalyne/Leetcode/blob/2de4289bed51b3b2089076d232ed5df56de2f9da/Array_String/238.%20Product%20of%20Array%20Except%20Self.md)  
 `Easy` [268. Missing Number](https://github.com/Adalyne/Leetcode/blob/f933f70de131429166f2a83a238446dfa19290c1/Array_String/268.%20Missing%20Number.md)   
