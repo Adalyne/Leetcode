@@ -14,6 +14,7 @@
 `Medium` [3019. Number of Changing Keys](https://github.com/Adalyne/Leetcode/blob/d1df4ac35362e805d003267f19674919736e053a/Array_String/3019.%20Number%20of%20Changing%20Keys.md)  
 `Medium` [3029. Minimum Time to Revert Word to Initial State I](https://github.com/Adalyne/Leetcode/blob/07f90700d2cb7c7893fe90fb52caef6aed5daf94/Array_String/3029.%20Minimum%20Time%20to%20Revert%20Word%20to%20Initial%20State%20I.md)  
 `Easy` [3042. Count Prefix and Suffix Pairs I](https://github.com/Adalyne/Leetcode/blob/e18cee9a71a8169c9a1dac03f86022559b507a7b/Array_String/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.md)  
+`Easy` [3074. Apple Redistributuin into Boxes](https://github.com/Adalyne/Leetcode/blob/31caafbbb967074656c0930f8cecc8c3dd9fd953/Array_String/3074.%20Apple%20Redistribution%20into%20Boxes.md)  
 `Easy` [10035. Maximum Area of Longest Diagonal Rectangle](https://github.com/Adalyne/Leetcode/blob/560dd1ae999175f064511ee66dfd41702bde9999/Array_String/10035.%20Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.md)  
 `Medium` [10037. Maximum Size of a Set After Removels](https://github.com/Adalyne/Leetcode/blob/e9a4ae2d23c46840c5ff38ec34636ca645f8ad35/Array_String/10037.%20Maximum%20Size%20of%20a%20Set%20After%20Removals.md)  
 
