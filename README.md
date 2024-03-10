@@ -16,6 +16,7 @@
 `Easy` [3042. Count Prefix and Suffix Pairs I](https://github.com/Adalyne/Leetcode/blob/e18cee9a71a8169c9a1dac03f86022559b507a7b/Array_String/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.md)  
 `Easy` [3074. Apple Redistributuin into Boxes](https://github.com/Adalyne/Leetcode/blob/31caafbbb967074656c0930f8cecc8c3dd9fd953/Array_String/3074.%20Apple%20Redistribution%20into%20Boxes.md)  
 `Medium` [3075. Maximize Happiness of Slected Children](https://github.com/Adalyne/Leetcode/blob/a15857b30a166f3aa8592e7a0e07f2d2f51d8be7/Array_String/3075.%20Maximize%20Happiness%20of%20Selected%20Children.md)  
+`Medium` [3076. Shortest Uncommon Substring in an Array](https://github.com/Adalyne/Leetcode/blob/5ee89e5e71885ab09c0f29b93c6252cb58a764de/Array_String/3076.%20Shortest%20Uncommon%20Substring%20in%20an%20Array.md)  
 `Easy` [10035. Maximum Area of Longest Diagonal Rectangle](https://github.com/Adalyne/Leetcode/blob/560dd1ae999175f064511ee66dfd41702bde9999/Array_String/10035.%20Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.md)  
 `Medium` [10037. Maximum Size of a Set After Removels](https://github.com/Adalyne/Leetcode/blob/e9a4ae2d23c46840c5ff38ec34636ca645f8ad35/Array_String/10037.%20Maximum%20Size%20of%20a%20Set%20After%20Removals.md)  
 
