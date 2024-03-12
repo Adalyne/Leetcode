@@ -138,6 +138,7 @@
 `Medium` [328. Odd Even Linked List](https://github.com/Adalyne/Leetcode/blob/faf1e74182f544b0f8e40cf4336287260ade2b11/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)  
 
 **Math**  
+`Medium` [7. Reverse Integer](https://github.com/Adalyne/Leetcode/blob/a2c439a9deac0ec284360463f3e6b45dfaaa25f5/Math/7.%20Reverse%20Integer.md)  
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
 `Easy` [66. Plus One](https://github.com/Adalyne/Leetcode/blob/c1e07739a4700b14dcdd6b57802de1d758947294/Math/66.%20Plus%20One.md)  
 `Easy` [3028. Ant on the Boundary](https://github.com/Adalyne/Leetcode/blob/0e5ef0ad6f97a0a81ae23a7c338768463daf7043/Math/3028.%20Ant%20on%20the%20Boundary.md)  
