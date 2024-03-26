@@ -94,6 +94,7 @@
 `Medium` [133. Clone Graph](https://github.com/Adalyne/Leetcode/blob/27c811ab314b010b21d30fa2412da6917bd7753b/Graph%20General/133.%20Clone%20Graph.md)  
 `Medium` [207. Course Schedule](https://github.com/Adalyne/Leetcode/blob/f4e1e7348912f0e817caf76953c1a7bad5215ae9/Graph%20General/207.%20Course%20Schedule.md)  
 `Medium` [210. Course Schedule](https://github.com/Adalyne/Leetcode/blob/d92069ed52ef75c8704c4d7a6c777cf508c5e53e/Graph%20General/210.%20Course%20Schedule%20II.md)  
+`Medium` [787. Cheapest Flights Within K Stops](https://github.com/Adalyne/Leetcode/blob/96075c059af9af81f2f1b08bb85ea750af053735/Graph%20General/787.%20Cheapest%20Flights%20Within%20K%20Stops.md)  
 `Medium` [3015. Count the Number of Houses at a certain Distence I](https://github.com/Adalyne/Leetcode/blob/12d91a57c8770702ab6c3fa8547989defad049b9/Graph%20General/3015.%20Count%20the%20Number%20of%20Houses%20at%20a%20Certain%20Distance%20I.md)  
 
 **Greedy**  
