@@ -134,6 +134,7 @@
 `Medium` [19. Remove Nth Node From End of List](https://github.com/Adalyne/Leetcode/blob/35db61b72e6970322988357a1b756515279ae261/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)  
 `Easy` [21. Merge Two Sorted Lists](https://github.com/Adalyne/Leetcode/blob/f23c4fcdfd7c69db1cf9c2fc2242af613a9b2676/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)   
 `Medium` [24. Swap Nodes in Pairs](https://github.com/Adalyne/Leetcode/blob/6d3c8104793788697098aa270a07ee5c8ce52580/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs.md)  
+`medium` [61. Rotate List](https://github.com/Adalyne/Leetcode/blob/507240daef36f646d09373be96c41d673cd8de4c/Linked%20List/61.%20Rotate%20List.md)  
 `Medium` [143. Reorder List](https://github.com/Adalyne/Leetcode/blob/700a265e37ca6325e295907b7179b745026ffbb1/Linked%20List/143.%20Reorder%20List.md)  
 `Medium` [146. LRU Cache](https://github.com/Adalyne/Leetcode/blob/ce3c44e45d89f57dc53a725bfc5345c78f15612c/Linked%20List/146.%20LRU%20Cache.md)  
 `Medium` [148. Sort List](https://github.com/Adalyne/Leetcode/blob/923f992001eea4be04faa4a68991f789e49e92bd/Linked%20List/148.%20Sort%20List.md)  
