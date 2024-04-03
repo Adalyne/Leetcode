@@ -84,6 +84,7 @@
 `Medium` [198. House Robber](https://github.com/Adalyne/Leetcode/blob/7800acac4bc6a773d5f25a6416610aed9e199ee0/1D%20DP/198.%20House%20Robber.md)  
 `Medium` [300. Longest Increasing Subsequence](https://github.com/Adalyne/Leetcode/blob/760203c9f1154255b38a30245ea45b31cf5c8b54/1D%20DP/300.%20Longest%20Increasing%20Subsequence.md)  
 `Medium` [322. Coins Change](https://github.com/Adalyne/Leetcode/blob/d49dd2d3333da80b7a47eae583fc80b69c249ca8/1D%20DP/322.%20Coin%20Change.md)  
+`Medium` [377. Combination Sum IV](https://github.com/Adalyne/Leetcode/blob/f690f57c9a081a29f71e85cda9b22136b896243d/1D%20DP/377.%20Combination%20Sum%20IV.md)  
 `Medium` [416. Partition Equal Subset Sum](https://github.com/Adalyne/Leetcode/blob/531554fe5aa837d052dd5333810a60050f0db80c/1D%20DP/416.%20Partition%20Equal%20Subset%20Sum.md)  
 `Medium` [2976. Minimum Cost to Convert String I](https://github.com/Adalyne/Leetcode/blob/e0924ad9b1fe8281344daa278fb9d1d029fda7f7/1D%20DP/2976.%20Minimum%20Cost%20to%20Convert%20String%20I.md)  
 
