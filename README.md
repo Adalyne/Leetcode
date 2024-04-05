@@ -109,6 +109,7 @@
 `Easy` [13. Roman to Integer](https://github.com/Adalyne/Leetcode/blob/f508e148150a891a8853a23700726bea6cf0d32e/Hashmap/13.%20Roman%20to%20Integer.md)  
 `Medium` [128. Longest Consecutive Sequence](https://github.com/Adalyne/Leetcode/blob/87323541005cb536173125efd84e79a1bdb41fa5/Hashmap/128.%20Longest%20Consecutive%20Sequence.md)  
 `Easy` [217. Contains Duplicate](https://github.com/Adalyne/Leetcode/blob/ca005477f6040b88e9d47f0da00eb879abc04e68/Hashmap/217.%20Contains%20Duplicate.md)  
+`Mwdium` [380. Insert Delete GetRandom O(1)](https://github.com/Adalyne/Leetcode/blob/42024efa3d6f2d3d265e45f6610adc8d071bbea0/Hashmap/380.%20Insert%20Delete%20GetRandom%20O(1).md)  
 `Medium` [424. Longest Repeating Character Replacement](https://github.com/Adalyne/Leetcode/blob/6082adabbee68faf73c3ecfb691f23c88362cc63/Hashmap/424.%20Longest%20Repeating%20Character%20Replacement.md)  
 `Medium` [525. Contiguous Array](https://github.com/Adalyne/Leetcode/blob/da9b8a1ea2992921df14264354585e79d7b81dcf/Hashmap/525.%20Contiguous%20Array.md)  
 `Medium` [560. Subarray Sum Equals K](https://github.com/Adalyne/Leetcode/blob/769743d98835de9ed00d1aad8ac96bd091e1c543/Hashmap/560.%20Subarray%20Sum%20Equals%20K.md)  
