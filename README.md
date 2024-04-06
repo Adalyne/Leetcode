@@ -128,6 +128,7 @@
 **Interval**   
 `Medium` [56. Merge Intervals](https://github.com/Adalyne/Leetcode/blob/7f6ef023520a6ef65a44aa302f4159c8245c44d3/Intervals/56.%20Merge%20Intervals.md)  
 `Easy` [57. Insert Interval](https://github.com/Adalyne/Leetcode/blob/0f646f1794c08d4d7f6df44e472b442c84e0afa7/Intervals/57.%20Insert%20Interval.md)  
+`Medium` [435. Non-overlapping Intervals](https://github.com/Adalyne/Leetcode/blob/23179e00f104daf41a4d8a51fb4f09697097df55/Intervals/435.%20Non-overlapping%20Intervals.md)  
 
 **Kadane's Alogorithm**  
 `Medium` [53. Maximum Subarray](https://github.com/Adalyne/Leetcode/blob/0f638f8fd1a7f9648bf13a1a914da20ee37742f4/Kadane's%20Algorithm/53.%20Maximum%20Subarray.md)  
