@@ -160,6 +160,7 @@
 
 **Sliding Window**  
 `Medium` [3.Longest Substring Without Repeating Characters](https://github.com/Adalyne/Leetcode/blob/b48ce48e1445d4aa03815cb7d7a9e2847c8800a3/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
+`Hard` [76. Minimun Window Substring](https://github.com/Adalyne/Leetcode/blob/414c6bdfc0d3544e7cc6e9e875d9bbf0d8bc81f4/Sliding%20Window/76.%20Minimum%20Window%20Substring.md)  
 `Medium` [438. Find All Anagrams in a String](https://github.com/Adalyne/Leetcode/blob/9362f933e25030969e0acca6c0846a4aa19565a2/Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20a%20String.md)  
 
 **Stack**  
