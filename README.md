@@ -120,6 +120,7 @@
 `Medium` [3016. Minimum Number of Pushrs to Type Word II](https://github.com/Adalyne/Leetcode/blob/a0af7db2489f7a4df086ccdc6da2f07c6fb517f9/Hashmap/3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II.md)  
 `Medium` [3020. Find Maximum Number of Elements in Subset](https://github.com/Adalyne/Leetcode/blob/9a5de77e67b5c5fcdf07014bcd017584a9e5114f/Hashmap/3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset.md)  
 `Medium` [3030. Find the Grid of Region Avarage](https://github.com/Adalyne/Leetcode/blob/2d9ae3885bd1f933303f15b7b99b1a0735b44f2c/Hashmap/3030.%20Find%20the%20Grid%20of%20Region%20Average.md)  
+`Easy` [3120. Count the Number of Special Characters I](https://github.com/Adalyne/Leetcode/blob/c21448777a1052a547b37f20c0e80114ccb7211b/Hashmap/3120.%20Count%20the%20Number%20of%20Special%20Characters%20I.md)  
 
 **Heap**  
 `Medium` [215. Kth Largest Element in an Array](https://github.com/Adalyne/Leetcode/blob/1e515796b05ddfc0476a405688df8f2713c11acf/Heap/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)  
