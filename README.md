@@ -91,6 +91,7 @@
 **Multidimensional DP**  
 `Medium` [5. Longest Palindromic Substring](https://github.com/Adalyne/Leetcode/blob/7c9853efcec33b279d8d117e9cc0a8dab05b28ca/Multidimensional%20DP/5.%20Longest%20Palindromic%20Substring.md)  
 `Medium` [221. Maximal Square](https://github.com/Adalyne/Leetcode/blob/9f8b33c0d4ebc3a95783af3d3bedb3c2c99ffbe1/Multidimensional%20DP/221.%20Maximal%20Square.md)  
+`Medium` [3122. Minimum Number of Operations to Satisfy Conditions](https://github.com/Adalyne/Leetcode/blob/c1128d4e3997dfe2fe395981cc24a283357bdb20/Multidimensional%20DP/3122.%20Minimum%20Number%20of%20Operations%20to%20Satisfy%20Conditions.md)  
 
 **Graph General**  
 `Medium` [133. Clone Graph](https://github.com/Adalyne/Leetcode/blob/27c811ab314b010b21d30fa2412da6917bd7753b/Graph%20General/133.%20Clone%20Graph.md)  
