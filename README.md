@@ -152,6 +152,7 @@
 `Easy` [9. Palindrome number](https://github.com/Adalyne/Leetcode/blob/11bc1ed2c6a765bc9f497a89027f793fad21ed8c/Math/9.%20Palindrome%20Number.md)  
 `Easy` [66. Plus One](https://github.com/Adalyne/Leetcode/blob/c1e07739a4700b14dcdd6b57802de1d758947294/Math/66.%20Plus%20One.md)  
 `Easy` [3028. Ant on the Boundary](https://github.com/Adalyne/Leetcode/blob/0e5ef0ad6f97a0a81ae23a7c338768463daf7043/Math/3028.%20Ant%20on%20the%20Boundary.md)  
+`Easy` [3131. Find the Integer Added to Array I](https://github.com/Adalyne/Leetcode/blob/f94584e4c6364c6db642eac55a41e780c41548cb/Math/3131.%20Find%20the%20Integer%20Added%20to%20Array%20I.md)  
 
 **Mtrix**  
 `Medium` [36. Valid Sudoku](https://github.com/Adalyne/Leetcode/blob/6f02d032873ef16e2cd831b00f1526a222da07e1/Matrix/36.%20Valid%20Sudoku.md)  
